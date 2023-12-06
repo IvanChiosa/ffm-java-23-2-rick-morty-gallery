@@ -13,6 +13,8 @@ const CharacterList: React.FC = () => {
         fetchdata();
     }, []);
 
+
+
     return (
         <>
             <div className="character-list">
